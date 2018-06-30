@@ -1,0 +1,1 @@
+"{\"RIZADO\":34,\"LARGO\":25,\"CORTO\":23,\"LISO\":8,\"COLETA\":6,\"ONDULADO\":4}"

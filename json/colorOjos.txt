@@ -1,0 +1,1 @@
+"{\"AZULES\":35,\"VERDES\":14,\"MARRONES\":7,\"OSCUROS\":2,\"CASTA\\u00d1OS\":1}"

@@ -1,0 +1,1 @@
+"{\"RUBIO\":33,\"CASTA\\u00d1O\":27,\"NEGRO\":16,\"ROSA\":3,\"AZUL\":2}"
